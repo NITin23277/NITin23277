@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://NITin23277.io)
 <h1 align="center">Hi 👋, I'm Nitin Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
  
@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin23277" alt="nitin23277" /></a> </p> -->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spirng Boot**
 
-- 💬 Ask me about **HTML,CSS,JAVASRIPT,DATA STRUCTURE**
+- 💬 Ask me about **Java, Spring Boot, OOPS , HTML,CSS,JAVASRIPT,DATA STRUCTURE AND ALGORITHMS**
 
 - 📫 How to reach me **mishranitin0002@gmail.com**
 
